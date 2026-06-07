@@ -1,6 +1,6 @@
 
 #  About Me:
-Hi, I’m Srilakshman<br><br>I’m a Full-Stack Developer focused on building real-world web applications and improving backend architecture through hands-on projects.<br><br>I work mainly with React, Node.js, Express, MongoDB, and currently exploring PostgreSQL + Prisma to build more scalable systems.<br><br>◆ Built and deployed a full-stack College Complaint Management System  <br>◆ Role-based dashboards with JWT authentication  <br>◆ REST APIs, backend workflows & database relationships  <br>◆ Production deployment using Vercel and Render  <br>◆ Currently improving system design and backend scalability<br><br>Most of my learning comes from building projects from scratch, understanding the flow deeply, and continuously refactoring systems to make them cleaner and more scalable.<br><br>Currently focused on becoming a stronger backend and full-stack engineer through real project development.
+Hi, I’m Srilakshman<br><br>I’m a Full-Stack Developer focused on building real-world web applications and improving backend architecture through hands-on projects.<br><br>I work mainly with React, Node.js, Express, MongoDB, and currently exploring PostgreSQL + Prisma to build more scalable systems.
 
 
 ## 🌐 Socials:
